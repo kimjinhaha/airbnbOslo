@@ -19,7 +19,10 @@ Please download the data sets locally first using below links.
 
 Datasets used in the projects were scraped 28 September 2019
 
-3. References and Inspiration
+3. Article about the project 
+- https://medium.com/@kimjinhaha/when-should-you-visit-oslo-and-where-should-you-stay-f4e2f2e400ab
+
+4. References and Inspiration
 - https://towardsdatascience.com/nlp-for-beginners-cleaning-preprocessing-text-data-ae8e306bef0f
 - https://www.kaggle.com/aashirwad01/airbnb-analysis
 - https://sanjayasubedi.com.np/nlp/nlp-feature-extraction/
