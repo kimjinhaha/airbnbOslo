@@ -13,9 +13,9 @@ Description
 - listings.csv: Detailed Listings data for Oslo
 
 Please download the data sets locally first using below links. 
-http://data.insideairbnb.com/norway/oslo/oslo/2019-09-28/visualisations/reviews.csv
-http://data.insideairbnb.com/norway/oslo/oslo/2019-09-28/data/calendar.csv.gz
-http://data.insideairbnb.com/norway/oslo/oslo/2019-09-28/data/listings.csv.gz
+- http://data.insideairbnb.com/norway/oslo/oslo/2019-09-28/visualisations/reviews.csv
+- http://data.insideairbnb.com/norway/oslo/oslo/2019-09-28/data/calendar.csv.gz
+- http://data.insideairbnb.com/norway/oslo/oslo/2019-09-28/data/listings.csv.gz
 
 Datasets used in the projects were scraped 28 September 2019
 
