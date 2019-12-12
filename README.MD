@@ -2,7 +2,7 @@
 
 ### 1. airbnb_oslo.ipynb
 
-Data wrangling, visualization, and text analysis to answer the following questions.
+Jupyter Notebook including data wrangling, visualization, and text analysis to answer the following questions.
 - Has there been growth in Oslo rental market over the years?
 - When should people visit Oslo? When is the most popular month of year and how is the availability, and the price?
 - Where should people stay in Oslo? Can I say something about location, price, availability, and atmosphere of different neighborhood?
